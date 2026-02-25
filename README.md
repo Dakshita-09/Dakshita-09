@@ -1,5 +1,5 @@
 ## Hi there 👋
-:smiling_face:
+## :smiling_face:
 
 <!--
 **Dakshita-09/Dakshita-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
